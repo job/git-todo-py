@@ -44,7 +44,7 @@ force = False
 sortIgnoreCase = True
 # numericSort = True is required to display child tasks properly
 # This default is used for ls action which can use alphaSort
-numericSort = False
+numericSort = True
 
 # Set your prefered symbol for a child task
 childSymbol = "_"
